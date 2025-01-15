@@ -180,14 +180,14 @@
         "get-port-please": "^3.1.1",
         "marked": "~4.2.5",
         "node-ssh": "~13.1.0",
-        "postcss-html": "~1.5.0",
+        "postcss-html": "~1.8.0",
         "postcss-rtlcss": "~3.7.2",
         "postcss-scss": "~4.0.4",
         "prismjs": "~1.29.0",
         "qrcode": "~1.5.0",
         "rollup-plugin-visualizer": "^5.6.0",
         "sass": "~1.42.1",
-        "stylelint": "^15.10.1",
+        "stylelint": "^16.13.0",
         "stylelint-config-standard": "~25.0.0",
         "terser": "~5.15.0",
         "test": "~3.3.0",
@@ -208,7 +208,7 @@
         "vue-router": "~4.2.5",
         "vue-toastification": "~2.0.0-rc.5",
         "vuedraggable": "~4.1.0",
-        "wait-on": "^7.2.0",
+        "wait-on": "^8.0.2",
         "whatwg-url": "~12.0.1"
     }
 }
