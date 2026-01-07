@@ -153,7 +153,7 @@
         "@fortawesome/free-regular-svg-icons": "~5.15.4",
         "@fortawesome/free-solid-svg-icons": "~5.15.4",
         "@fortawesome/vue-fontawesome": "~3.0.0-5",
-        "@playwright/test": "~1.39.0",
+        "@playwright/test": "~1.56.0",
         "@popperjs/core": "~2.10.2",
         "@types/bootstrap": "~5.1.9",
         "@types/node": "^20.8.6",
